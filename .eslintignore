@@ -1,0 +1,8 @@
+bundles/*
+docs/*
+admin/public/js/lib/*
+admin/public/js/packages.js
+test/*
+node_modules/*
+coverage/*
+fields/types/**/lib/*
